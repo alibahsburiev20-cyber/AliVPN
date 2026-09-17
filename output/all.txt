@@ -1,0 +1,1 @@
+# AliVPN seed output. GitHub Actions will refresh this file.
